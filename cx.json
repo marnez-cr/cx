@@ -499,7 +499,7 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "Hexated"
+            "marnez"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -508,7 +508,7 @@
         ],
         "version": 13,
         "internalName": "LayarKacaProvider",
-        "url": "https://raw.githubusercontent.com/marnez-cr/cx/main/pg/builds/LayarKacaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/LayarKacaProvider.cs3",
         "name": "LayarKacaProvider"
     },
     {
