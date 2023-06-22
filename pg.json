@@ -1,0 +1,8 @@
+{
+    "name": "marnez tes plugin cloudX",
+    "description": "Providers from all country",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/marnez-cr/cx/main/cx.json"
+    ]
+}
