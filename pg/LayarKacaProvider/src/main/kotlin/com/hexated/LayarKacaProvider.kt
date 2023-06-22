@@ -9,8 +9,8 @@ import java.net.URLDecoder
 import java.net.URI
 
 class LayarKacaProvider : MainAPI() {
-    override var mainUrl = "http://198.54.124.245/"
-    private var seriesUrl = "https://drama2.nontondrama.lol"
+    override var mainUrl = "https://njav.tv/id"
+    private var seriesUrl = "https://njav.tv/en"
     override var name = "LayarKaca"
     override val hasMainPage = true
     override var lang = "id"
