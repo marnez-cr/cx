@@ -4,5 +4,6 @@
     "manifestVersion": 1,
     "pluginLists": [
         "https://raw.githubusercontent.com/marnez-cr/cx/main/cx.json"
+"https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/plugins.json"
     ]
 }
