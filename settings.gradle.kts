@@ -1,19 +1,19 @@
-rootProject.name = "CloudstreamPlugins"
-
-// This file sets what projects are included. All new projects should get automatically included unless specified in "disabled" variable.
-
-val disabled = listOf<String>("Animixplay")
-
-File(rootDir, ".").eachDir { dir ->
-    if (!disabled.contains(dir.name) && File(dir, "build.gradle.kts").exists()) {
-        include(dir.name)
-    }
-}
-
-fun File.eachDir(block: (File) -> Unit) {
-    listFiles()?.filter { it.isDirectory }?.forEach { block(it) }
-}
-
-
-// To only include a single project, comment out the previous lines (except the first one), and include your plugin like so:
-// include("PluginName")
+[
+    {
+        "url": "https://raw.githubusercontent.com/recloudstream/extensions/master/repo.json",
+        "verified": true
+    },
+    "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/repo.json",
+    "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/repo.json",
+    "https://codeberg.org/cloudstream/cloudstream-extensions-hexated/raw/branch/builds/repo.json",
+    "https://codeberg.org/cloudstream/likdev256-tamil-providers/raw/branch/builds/repo.json",
+    "https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/kronch.json",
+    "https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/storm.json",
+    "https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json",
+    "https://raw.githubusercontent.com/duongnv1996/bongngo-cs3-extension/master/repo.json",
+    "https://codeberg.org/cloudstream/cs3xxx-repo/raw/branch/main/repo.json",
+    "https://codeberg.org/cloudstream/arab/raw/branch/builds/repo.json",
+    "https://raw.githubusercontent.com/AirbnbEcoPlus/frencharchive/master/repo.json",
+    "https://codeberg.org/cloudstream/cloudstream-extensions-horis/raw/branch/master/repo.json",
+    "https://codeberg.org/7TE/FStream/raw/branch/build/repo.json"
+]
