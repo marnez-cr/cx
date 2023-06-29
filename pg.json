@@ -3,19 +3,19 @@
     "description": "Providers from all country",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/marnez-cr/cx/main/cx.json"
-        "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/repo.json"
-        "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/repo.json"
-        "https://codeberg.org/cloudstream/cloudstream-extensions-hexated/raw/branch/builds/repo.json"
-        "https://codeberg.org/cloudstream/likdev256-tamil-providers/raw/branch/builds/repo.json"
-        "https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/kronch.json"
-        "https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/storm.json"
-        "https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json"
-        "https://raw.githubusercontent.com/duongnv1996/bongngo-cs3-extension/master/repo.json"
-        "https://codeberg.org/cloudstream/cs3xxx-repo/raw/branch/main/repo.json"
-        "https://codeberg.org/cloudstream/arab/raw/branch/builds/repo.json"
-        "https://raw.githubusercontent.com/AirbnbEcoPlus/frencharchive/master/repo.json"
+        "https://raw.githubusercontent.com/marnez-cr/cx/main/cx.json",
+        "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/repo.json",
+        "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/repo.json",
+        "https://codeberg.org/cloudstream/cloudstream-extensions-hexated/raw/branch/builds/repo.json",
+        "https://codeberg.org/cloudstream/likdev256-tamil-providers/raw/branch/builds/repo.json",
+        "https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/kronch.json",
+        "https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/storm.json",
+        "https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json",
+        "https://raw.githubusercontent.com/duongnv1996/bongngo-cs3-extension/master/repo.json",
+        "https://codeberg.org/cloudstream/cs3xxx-repo/raw/branch/main/repo.json",
+        "https://codeberg.org/cloudstream/arab/raw/branch/builds/repo.json",
+        "https://raw.githubusercontent.com/AirbnbEcoPlus/frencharchive/master/repo.json",
         "https://codeberg.org/cloudstream/cloudstream-extensions-horis/raw/branch/master/repo.json",
-        "https://codeberg.org/7TE/FStream/raw/branch/build/repo.json"
+        "https://codeberg.org/7TE/FStream/raw/branch/build/repo.json",
     ]
 }
